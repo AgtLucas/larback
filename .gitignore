@@ -1,6 +1,7 @@
 /bootstrap/compiled.php
 /app/config/database.php
 app/config/database.php
+public/node_modules
 /vendor
 composer.phar
 composer.lock
